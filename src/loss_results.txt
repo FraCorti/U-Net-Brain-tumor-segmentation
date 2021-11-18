@@ -1,0 +1,32 @@
+NO BATCH: Loss train:0.0223556668139421 , Loss validation:0.2974945732525417 , Epochs:100, Learning Rate:0.01
+
+NO BATCH: Loss train:0.00601332147534077 , Loss validation:0.3009570354507083 , Epochs:100, Learning Rate:0.0001
+
+NO BATCH: Loss train:0.038945035865673654 , Loss validation:0.35860077540079754 , Epochs:100, Learning Rate:0.1
+
+YES BATCH: Loss train:0.022803569928957865 , Loss validation:0.3491344423521133 , Epochs:100, Learning Rate:0.01
+
+YES BATCH: Loss train:0.004725506385931602 , Loss validation:0.2601911170142038 , Epochs:100, Learning Rate:0.0001
+
+YES BATCH: Loss train:0.04759579065900583 , Loss validation:0.2579740314256577 , Epochs:100, Learning Rate:0.1
+
+
+DIFFERENT BATCH SIZE: Batch Size: 16, Loss train:0.06528698996855663 , Loss validation:0.2624800063314892 , Epochs:30, Learning Rate:0.1
+
+DIFFERENT BATCH SIZE: Batch Size: 16, Loss train:0.018764937439790137 , Loss validation:0.34142032975242254 , Epochs:30, Learning Rate:0.0001
+
+DIFFERENT BATCH SIZE: Batch Size: 32, Loss train:0.05328583889282667 , Loss validation:0.2036533518271013 , Epochs:30, Learning Rate:0.1
+
+DIFFERENT BATCH SIZE: Batch Size: 32, Loss train:0.09790795124494113 , Loss validation:0.34333886341615155 , Epochs:30, Learning Rate:0.0001
+
+DIFFERENT BATCH SIZE: Batch Size: 64, Loss train:0.44582263896098506 , Loss validation:0.7428532540798187 , Epochs:30, Learning Rate:0.0001, Seconds: 902.7081699371338
+
+DIFFERENT BATCH SIZE: Batch Size: 64, Loss train:0.07428229772127591 , Loss validation:0.1759224534034729 , Epochs:30, Learning Rate:0.1, Seconds: 899.2913239002228
+
+DIFFERENT BATCH SIZE: Batch Size: 16, Loss train:0.3217863512153809 , Loss validation:0.52152324006671 , Epochs:1, Learning Rate:0.1, Seconds: 32.65316939353943
+
+DIFFERENT BATCH SIZE: Batch Size: 16, Loss train:0.8595112863068397 , Loss validation:0.937796896412259 , Epochs:1, Learning Rate:0.0001, Seconds: 33.08478307723999  
+
+DIFFERENT BATCH SIZE: Batch Size: 32, Loss train:0.34079815390018314 , Loss validation:0.30092251842672174 , Epochs:1, Learning Rate:0.1, Seconds: 31.438493967056274
+
+DIFFERENT BATCH SIZE: Batch Size: 32, Loss train:0.8744049439063439 , Loss validation:0.9420776529745623 , Epochs:1, Learning Rate:0.0001, Seconds: 32.11981749534607
